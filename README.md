@@ -16,5 +16,4 @@ A machine learning system to predict manufacturing efficiency based on real-time
 3. Start Backend: `python backend/main.py`.
 4. Start Frontend: `streamlit run frontend/app.py`.
 
-### 3. Deployment
-Same as Project 1, but using the specific commands for port 8001 and backend/main.py.
+
